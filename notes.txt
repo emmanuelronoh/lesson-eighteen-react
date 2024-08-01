@@ -1,0 +1,18 @@
+frame work phase 2 - 
+types of programming : 
+imperative programming.
+declarative programming
+npm start for starting the development server.
+
+types of components
+1. functional component.
+2. class based component.
+function <function_name> () {
+
+}
+
+function has easy readability. we use functional with help of hooks.
+
+class based component not quit used and not simpler.
+it was coming with react
+complex to understand
